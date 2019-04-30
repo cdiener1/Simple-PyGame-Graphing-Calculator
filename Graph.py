@@ -1,6 +1,6 @@
 import pygame
 
-from math import sin
+from math import *
 
 def drawgraph():
 
