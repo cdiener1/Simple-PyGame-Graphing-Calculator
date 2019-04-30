@@ -1,2 +1,2 @@
-# Simple-PyGame-Graphing-Calculator
-Only dependencies are math and pygame. Get pygame with "pip install pygame" and math should be built in with any version of python. Formula to be graphed goes on line 11.
+# Simple PyGame Graphing Calculator
+Using the math and pygame libraries, this calculator can quickly allow one to visualize even complex equations. Just insert the equation to be graphed in line 11 and run the program.
