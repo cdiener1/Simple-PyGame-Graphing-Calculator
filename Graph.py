@@ -19,7 +19,6 @@ def drawgraph():
     pygame.draw.rect(screen, [0, 0, 0], [0, 299, 1000, 3], 0)
     pygame.draw.lines(screen, [255,0,0],False, plotPoints, 2)
     pygame.display.flip()
-    pygame.time.delay(delay)
 
 def exitbutton():
     running = True
